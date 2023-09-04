@@ -8,8 +8,8 @@ Algoritmo Entradasevento
 				Escribir "Compra realizada"
 				entradas_disponibles = entradas_disponibles - cantidad_entradas
 			SiNo
-				Escribir "No hay suficientes entradas disponibles"
+				Escribir "No hay Stock de entradas disponibles"
 			FinSi
 		FinMientras
-		Escribir "No hay m·s entradas disponibles"
+		Escribir "No hay m√°s entradas disponibles"
 FinAlgoritmo
